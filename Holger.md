@@ -128,6 +128,7 @@
 [32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/data/tractography/life_demo_mrtrix_csd_lmax10_deterministic.mat 1404172176000
 [32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/data/tractography/life_demo_mrtrix_csd_lmax10_probabilistic.mat 1404172176000
 [32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/data/tractography/life_demo_mrtrix_tensor_deterministic.mat 1404172176000
+[32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/deletene.txt 1492540512000
 [32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/lifebid/.git/COMMIT_EDITMSG 1428859317000
 [32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/lifebid/.git/FETCH_HEAD 1428859378000
 [32minfo[39m: need-to-archive /N/dc2/projects/lifebid/lifebid2sda/../Holger/lifebid/.git/HEAD 1428700876000
